@@ -18,9 +18,10 @@ Provide as much information as possible in order to help out any developers who 
 
 ## Contributing
 
-Some fixes can be done through a simple pull request on the github website, but some require the sim. The simplest way to do this is with [Github Desktop](https://desktop.github.com/). You can find a guide online on how to pull files from github in one click, and be able to access them on your computer. 
+### Branches
+There are branches set up for the core aspects of the aircraft. 
+To contribute to the project, you should follow the workflow we have set up to keep things organized:
 
-When using github desktop, please add a new commit for every section of work you are doing. This helps keep things organized, and makes it easier for us to look over a pull request. Make sure all pull requests are finished and working. If a pull request has incorrect or partial information, it may be rejected even if everything else is okay. Also, please remove the Packages and PackageInt folders before submitting.
 
 ## Opening the aircraft in the simulator
 
