@@ -1,31 +1,32 @@
-# ParallelFS 757-200
+# Parallel Flight Simulations
+### Boeing 757-200 Project
 
-Welcome to the GitHub repository for the ParallelFS 757-200, a community made 757.
 
-## Join the ParallelFS Community
-You can follow this project and interact with the ParallelFS community by joining the [ParallelFS Discord Server.](https://discord.gg/QGEVx5RZYr)
+## About
+This project aims to create an open source aircraft for Microsoft Flight Simulator. We are working to develop the Boeing 757-200.
 
-## Installation
+We are currently working on this model of the aircraft:
 
-This aircraft is not yet available for download. If you are a developer, please refer to Contributing.md
+Model: Boeing 757-200 Passenger with Winglets
+Engines: Rolls Royce RB211-535C
+Cockpit: Standard (Classic)
 
-## FAQs
+## Downloads
+This aircraft is not released, but you can download the development files from thie GitHub page.
 
-What Version of the 757 is this?
-- This is the Boeing 757-200 Passenger. We hope to release more versions later on.
+## Contributing
+If you are interested in contributing to the project, please read [Contributing.md](.github/Contributing.md)
 
-Where can I download it?
-- The aircraft has not been released.
+## FAQ
 
-When will it be released?
-- Our goal for release is late 2021, but this is a rough estimate and could change at any time.
+**Q: Can I install this aircraft?**
 
-How much will it cost?
-- This is a freeware project.
+A: No, this aircraft is available for development ONLY, which means it will not work in your Community folder.
 
-How can I contribute to the project?
-- Please refer to Contributing.md for more information.
+**Q: When will this aircraft be released?**
 
-## License
+A: At the moment, this aircraft is still in development. We will not announce a release date until we are closer to a working aircraft!
 
-[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/) is used for this project. 
+**Q: How can I help?**
+
+A: Read [Contributing.md](.github/Contributing.md) and join our [Discord server](https://discord.gg/PzCWA2NgSE) to see how you can help out!
