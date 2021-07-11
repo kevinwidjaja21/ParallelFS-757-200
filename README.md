@@ -17,6 +17,14 @@ This aircraft is not released, but you can download the development files from t
 ## Contributing
 If you are interested in contributing to the project, please read [Contributing.md](.github/Contributing.md)
 
+## Third party licenses
+
+* FlyByWire Simulations A32NX
+
+Copyirght (c) 2020-2021 FlyByWire Simulations and its contributors
+
+Licensed under the MIT license.
+
 ## FAQ
 
 **Q: Can I install this aircraft?**
