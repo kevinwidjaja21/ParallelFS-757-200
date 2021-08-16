@@ -76,7 +76,7 @@ module.exports = getInstrumentsToCompile().map(({ path, name, isInstrument }) =>
                 compact: false,
                 extensions
             }),
-            replace({ 'process.env.NODE_ENV': '"production"' }),
+            replace({ preventAssignment: true}),
             postcss({
                 use: { sass: {} },
                 plugins: makePostcssPluginList(path),

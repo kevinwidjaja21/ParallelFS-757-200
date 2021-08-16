@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ModelInfo>
+
+	<LODS>
+		<!-- Highest LOD -->
+		<!-- minimum display size in % (should be bounding sphere vertical screen size, sphere will often be slightly larger than you expect) -->
+		<!-- default minSize is 0 -->
+		<LOD minSize="100" ModelFile="PFS757_Exterior.gltf"/>
+	</LODS>
+
+	<Behaviors>
+		<Include ModelBehaviorFile="Asobo\Exterior.xml"/>
+		<Component ID="HANDLING">
+			<UseTemplate Name="ASOBO_HANDLING_Rudder_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_HANDLING_Aileron_Template">
+			</UseTemplate>
+		</Component>
+	</Behaviors>
+	
+</ModelInfo>
